@@ -5,9 +5,9 @@ I combine data analytics skills with a strong understanding of business processe
 
 I use **SQL (PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), BI tools (Tableau, DataLens), and statistical methods** to explore data, test hypotheses, identify patterns, and turn analytical findings into actionable business insights.
 
+💼 Open to Data Analyst / BI Analyst / Product Analyst opportunities  
 📍 Based in A Coruña, Spain  
 🎓 Master's in Data Analytics for Business
-💼 Open to Data Analyst / BI Analyst / Product Analyst opportunities  
 
 ## Contacts
 
